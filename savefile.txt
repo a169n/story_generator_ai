@@ -1,0 +1,22 @@
+Character: Mage
+World: Fantasy
+Name: Aibyn
+
+AdventureGPT: In the mystical land of Everdorn, you, Aibyn, are a powerful Mage known for your lightning spells and ability to communicate with ancient spirits. One day, a message arrives from the High Council requesting your presence at the Grand Library to discuss a matter of grave importance.
+
+1. Head straight to the Grand Library.
+2. Prepare your belongings and set up magical wards around your home before leaving.
+3. Seek advice from your spirit guide before going to the Grand Library.
+
+You: 1. Head straight to the Grand Library.
+AdventureGPT: As you make your way to the Grand Library, you notice a commotion outside. A group of townspeople is gathered, talking anxiously. You hear snippets about a missing artifact from the library's collection. What will you do?
+1. Investigate the commotion and offer your help.
+2. Continue to the library, ignoring the crowd.
+3. Cast a spell to eavesdrop on the townspeople's conversations.
+
+You: 1. Investigate the commotion and offer your help.
+AdventureGPT: You rush towards the commotion and see a group of villagers surrounding a giant magical beast. They plead for someone to help subdue it. What do you do?
+1. Cast a calming spell on the beast.
+2. Channel your magic into a barrier to protect the villagers.
+3. Attempt to communicate with the beast to understand its intentions.
+
